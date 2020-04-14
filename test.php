@@ -1,4 +1,7 @@
 <?php
+
+echo 123;
+
 // 基本練習 1
 // Here your code !
 echo "paiza php講座";
